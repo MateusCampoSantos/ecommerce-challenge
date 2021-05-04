@@ -18,6 +18,7 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
 <h4> Dead Line para as tarefas acima: 07/05/2021 </h4>
 
 <h4> Sprint 2</h4>
+
 - [ ] Desenvolver um script para quantificar o total de itens em estoque
     * Estimativa: 2h
     * Início Prévio: 10/05/2021
@@ -65,6 +66,7 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
 <h4> Dead Line para as tarefas acima: 14/05/2021</h4>
 
 <h4> Sprint 3 </h4>
+
 - [ ] Criar um modelo entidade relacionamento (MER) para o E-commerce
     * Estimativa: 3h
     * Início Prévio: 17/05/2021
