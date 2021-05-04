@@ -5,7 +5,7 @@
 Descrição da atividade: Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques.
 
 <h3 align="center">Planejamento de tarefas e entregas</h3>
-<h4> Sprint 1>/h4>
+<h4> Sprint 1</h4>
 
 - [x] Configuração do ambiente de trabalho (VS Code)
     * Estimativa: 1h
