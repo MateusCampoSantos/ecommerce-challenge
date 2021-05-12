@@ -19,35 +19,35 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
 
 <h4> Sprint 2</h4>
 
-- [ ] Desenvolver um script para quantificar o total de itens em estoque
+- [x] Desenvolver um script para quantificar o total de itens em estoque
     * Estimativa: 2h
     * Início Prévio: 10/05/2021
     * Término Prévio: 11/05/2021
-- [ ] Desenvolver um script para quantificar o total de itens em destaque
+- [x] Desenvolver um script para quantificar o total de itens em destaque
     * Estimativa: 2h
     * Início Prévio: 10/05/2021
     * Término Prévio: 11/05/2021
-- [ ] Desenvolver um script para quantificar o total de itens disponiveis
+- [x] Desenvolver um script para quantificar o total de itens disponiveis
     * Estimativa: 2h
     * Início Prévio: 10/05/2021
     * Término Prévio: 11/05/2021
-- [ ] Desenvolver um script para calcular o valor total do inventario da empresa
+- [x] Desenvolver um script para calcular o valor total do inventario da empresa
     * Estimativa: 2h
     * Início Prévio: 10/05/2021
     * Término Prévio: 11/05/2021
-- [ ] Desenvolver um script capaz de diferenciar os itens por departamento e fazer sua somatoria
+- [x] Desenvolver um script capaz de diferenciar os itens por departamento e fazer sua somatoria
     * Estimativa: 2h
     * Início Prévio: 11/05/2021
     * Término Prévio: 12/05/2021
-- [ ] Desenvolver um script que calcule o valor total do inventário por departamento
+- [x] Desenvolver um script que calcule o valor total do inventário por departamento
     * Estimativa: 2h
     * Início Prévio: 11/05/2021
     * Término Prévio: 12/05/2021
-- [ ] Desenvolver um script que calcule o Ticket médio da empresa
+- [x] Desenvolver um script que calcule o Ticket médio da empresa
     * Estimativa: 2h
     * Início Prévio: 11/05/2021
     * Término Prévio: 12/05/2021
-- [ ] Desenvolver um script que calcule o Ticket médio por departamento
+- [x] Desenvolver um script que calcule o Ticket médio por departamento
     * Estimativa: 2h
     * Início Prévio: 11/05/2021
     * Término Prévio: 12/05/2021
@@ -55,11 +55,11 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
     * Estimativa: 2h
     * Início Prévio: 12/05/2021
     * Término Prévio: 13/05/2021
-- [ ] Desenvolver um script que destaque o produto mais caro da loja e seu departamento
+- [x] Desenvolver um script que destaque o produto mais caro da loja e seu departamento
     * Estimativa: 2h
     * Início Prévio: 12/05/2021
     * Término Prévio: 13/05/2021
-- [ ] Desenvolver um script que destaque o produto mais barato da loja e seu departamento
+- [x] Desenvolver um script que destaque o produto mais barato da loja e seu departamento
     * Estimativa: 2h
     * Início Prévio: 12/05/2021
     * Término Prévio: 13/05/2021
