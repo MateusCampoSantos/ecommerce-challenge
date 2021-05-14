@@ -5,7 +5,7 @@
 Descrição da atividade: Somos parte de uma equipe de desenvolvimento de software que está criando uma série de ferramentas para gestão de eCommerces. Neste sentido, precisamos atender algumas necessidades de gestores destas plataformas. Precisamos criar soluções para ajudar nossos gestores a extrair dados de inventários de seus respectivos estoques.
 
 <h3 align="center">Planejamento de tarefas e entregas</h3>
-<h4> Sprint 1</h4>
+<h2> Sprint 1</h2>
 
 - [x] Configuração do ambiente de trabalho (VS Code)
     * Estimativa: 1h
@@ -17,7 +17,7 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
     * Término Prévio: 05/05/2021
 <h4> Dead Line para as tarefas acima: 07/05/2021 </h4>
 
-<h4> Sprint 2</h4>
+<h2> Sprint 2</h2>
 
 - [x] Desenvolver um script para quantificar o total de itens em estoque
     * Estimativa: 2h
@@ -51,7 +51,7 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
     * Estimativa: 2h
     * Início Prévio: 11/05/2021
     * Término Prévio: 12/05/2021
-- [ ] Desenvolver um script que destaque o departamento mais valioso
+- [x] Desenvolver um script que destaque o departamento mais valioso
     * Estimativa: 2h
     * Início Prévio: 12/05/2021
     * Término Prévio: 13/05/2021
@@ -65,7 +65,7 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
     * Término Prévio: 13/05/2021
 <h4> Dead Line para as tarefas acima: 14/05/2021</h4>
 
-<h4> Sprint 3 </h4>
+<h2> Sprint 3 </h2>
 
 - [ ] Criar um modelo entidade relacionamento (MER) para o E-commerce
     * Estimativa: 3h
