@@ -67,23 +67,23 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
 
 <h2> Sprint 3 </h2>
 
-- [ ] Criar um modelo entidade relacionamento (MER) para o E-commerce
+- [x] Criar um modelo entidade relacionamento (MER) para o E-commerce
     * Estimativa: 3h
     * Início Prévio: 17/05/2021
     * Término Prévio: 18/05/2021
-- [ ] Criar um documento contendo o mapeamento para o modelo racional
+- [x] Criar um documento contendo o mapeamento para o modelo racional
     * Estimativa: 2h
     * Início Prévio: 17/05/2021
     * Término Prévio: 18/05/2021
-- [ ] Desenvolver arquivo SQL com as instruções de criação de todas as tabelas
+- [x] Desenvolver arquivo SQL com as instruções de criação de todas as tabelas
     * Estimativa: 3h
     * Início Prévio: 17/05/2021
     * Término Prévio: 18/05/2021
-- [ ] Desenvolver arquivo SQL com as scripts de inserção de dados, respeitando as restrições de chaves estrangeiras
+- [x] Desenvolver arquivo SQL com as scripts de inserção de dados, respeitando as restrições de chaves estrangeiras
     * Estimativa: 3h
     * Início Prévio: 18/05/2021
     * Término Prévio: 19/05/2021
-- [ ] Desenvolver arquivo SQL contendo pelo menos 5 consultas contemplando:
+- [x] Desenvolver arquivo SQL contendo pelo menos 5 consultas contemplando:
     1. Consulta contemplando contagem ou totalização.
     1. Consulta contemplando a junção entre 2 tabelas
     1. Consulta contemplando a junção entre 3 tabelas
@@ -92,11 +92,11 @@ Descrição da atividade: Somos parte de uma equipe de desenvolvimento de softwa
     * Estimativa: 5h
     * Início Prévio: 18/05/2021
     * Término Prévio: 19/05/2021
-- [ ] Desenvolver um enunciado para cada consulta e um script SQL
+- [x] Desenvolver um enunciado para cada consulta e um script SQL
     * Estimativa: 4h
     * Início Prévio: 19/05/2021
     * Término Prévio: 20/05/2021
-- [ ] Revisão em todo o projeto, garantindo que **TODOS** os scripts devem executar sem erros e que os scripts de consulta retornem dados corretos
+- [x] Revisão em todo o projeto, garantindo que **TODOS** os scripts devem executar sem erros e que os scripts de consulta retornem dados corretos
     * Estimativa: 5h
     * Início Prévio: 20/05/2021
     * Término Prévio: 21/05/2021
